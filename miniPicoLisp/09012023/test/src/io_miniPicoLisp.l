@@ -107,7 +107,7 @@
 ### load ###
 (test 6 (load "-* 1 2 3"))
 
-(de tmp (N) (pack "/tmp/" N))
+(de tmp (N) (pack "delete_me_" N))
 
 ### in out err ###
 (out (tmp "file")
