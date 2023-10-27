@@ -10,6 +10,8 @@
 
 ../miniPicoLisp/pil src/io_miniPicoLisp.l -bye
 
+../miniPicoLisp/pil ../miniPicoLisp/lib/pilog.l friends.l -bye
+
 #../miniPicoLisp/pil src/net.l -bye
 
 echo "\e[32mALL TESTS PASSED\e[0m"

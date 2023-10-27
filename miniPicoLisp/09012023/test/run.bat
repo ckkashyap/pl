@@ -10,4 +10,6 @@
 
 ..\miniPicoLisp\src\picolisp ..\miniPicoLisp\lib.l ..\miniPicoLisp\lib\misc.l src\io_miniPicoLisp.l -bye
 
+..\miniPicoLisp\src\picolisp ..\miniPicoLisp\lib.l ..\miniPicoLisp\lib\misc.l ..\miniPicoLisp\lib\pilog.l friends.l -bye
+
 echo ALL TESTS PASSED
